@@ -2,8 +2,8 @@
 
 import asyncio
 import json
+import os
 import secrets
-import os 
 import signal
 
 import websockets
